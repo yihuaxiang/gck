@@ -1,6 +1,6 @@
 {
   "name": "gck",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "git search and checkout any branch",
   "main": "index.js",
   "scripts": {
