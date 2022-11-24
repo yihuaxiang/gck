@@ -1,0 +1,25 @@
+{
+  "name": "gck",
+  "version": "1.0.0",
+  "description": "git search and checkout any branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yihuaxiang/gck.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "checkout",
+    "search"
+  ],
+  "author": "fudongdong@fudongdong.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yihuaxiang/gck/issues"
+  },
+  "homepage": "https://github.com/yihuaxiang/gck#readme"
+}
